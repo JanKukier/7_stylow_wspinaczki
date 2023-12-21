@@ -154,6 +154,10 @@ table{
 li{
 	color:lightblue;
 	clear:both;
+	overflow:hidden;
+}
+ol{
+	overflow:hidden;
 }
 .linki{
 	color:lightblue;
