@@ -153,6 +153,13 @@ table{
 }
 li{
 	color:lightblue;
+	float:left;
+}
+ol{
+	overflow-x: scroll;
+}
+ul{
+	overflow: hidden;
 }
 .linki{
 	color:lightblue;
