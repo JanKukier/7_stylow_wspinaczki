@@ -155,12 +155,6 @@ li{
 	color:lightblue;
 	float:left;
 }
-ol{
-	overflow: scroll;
-}
-ul{
-	overflow: hidden;
-}
 .linki{
 	color:lightblue;
 }
